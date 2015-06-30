@@ -1,0 +1,1 @@
+Regiomontanus astrology software v1.0
